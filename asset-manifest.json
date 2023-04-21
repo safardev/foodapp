@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/foodapp/static/css/main.c9511237.css",
+    "main.js": "/foodapp/static/js/main.5215f396.js",
+    "static/js/787.8741f9c1.chunk.js": "/foodapp/static/js/787.8741f9c1.chunk.js",
+    "static/media/go.png": "/foodapp/static/media/go.09b1480bec2279e48195.png",
+    "static/media/p2.jpg": "/foodapp/static/media/p2.65b95428b105fa3b5c9c.jpg",
+    "static/media/food.jpg": "/foodapp/static/media/food.7bb4f2d23d13c74efb92.jpg",
+    "static/media/p1.jpg": "/foodapp/static/media/p1.04c42958e8ccae468452.jpg",
+    "static/media/cate.png": "/foodapp/static/media/cate.2c3b8fba8a6551e8ed44.png",
+    "static/media/bottle.jpg": "/foodapp/static/media/bottle.fc155b88599f620448d2.jpg",
+    "static/media/p3.jpg": "/foodapp/static/media/p3.3e2a7260c5b6e165155e.jpg",
+    "static/media/pop.jpg": "/foodapp/static/media/pop.55634f42728067494e00.jpg",
+    "static/media/del.png": "/foodapp/static/media/del.9330cd6e8aec41e4a84d.png",
+    "static/media/chicken.png": "/foodapp/static/media/chicken.91ba674d88aa897d6afd.png",
+    "static/media/p4.jpg": "/foodapp/static/media/p4.c557097323cae631cacf.jpg",
+    "static/media/sale.png": "/foodapp/static/media/sale.3a5634e8022ce4c6cac0.png",
+    "static/media/madewith.jpg": "/foodapp/static/media/madewith.bd8f36ffddae2e045386.jpg",
+    "index.html": "/foodapp/index.html",
+    "main.c9511237.css.map": "/foodapp/static/css/main.c9511237.css.map",
+    "main.5215f396.js.map": "/foodapp/static/js/main.5215f396.js.map",
+    "787.8741f9c1.chunk.js.map": "/foodapp/static/js/787.8741f9c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9511237.css",
+    "static/js/main.5215f396.js"
+  ]
+}
