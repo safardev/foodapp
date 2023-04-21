@@ -1,0 +1,6 @@
+.prodCont{
+    padding: 0 10px;
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}

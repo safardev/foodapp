@@ -1,0 +1,85 @@
+.middle {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0;
+  text-align: center;
+}
+.middle .tp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.middle .tp .imageCont {
+  position: relative;
+}
+.middle .tp .imageCont img {
+  width: 684px;
+  height: 700px;
+  border-radius: 20px;
+  background: #33000000;
+}
+.middle .tp .imageCont .pick {
+  position: absolute;
+  top: 80px;
+  left: 40px;
+}
+.middle .tp .imageCont .pick p{
+  font-size: 60px;
+  color: white;
+  text-align:start;
+}
+.middle .tp .imageCont .pick p span{
+  font-size: 30px;
+}
+.middle .tp .pick p {
+  margin: 0;
+}
+
+.middle .tp>p {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: normal;
+  letter-spacing: 0px;
+  padding: 20px 0;
+}
+.middle .shopAll {
+  background-color: white;
+}
+
+.middle .shopAll .products {
+  display: flex;
+  justify-content: space-evenly;
+}
+.middle .shopAll>p {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 15px 0px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  .middle .shopAll {
+    height: 288px;
+  }
+
+  .middle .shopAll>p{
+    font-size: 12px;
+  }
+  .middle .tp .imageCont img {
+    width: 342px;
+    height: 350px;
+  }
+  .middle .tp .imageCont .pick{
+    left: 30px;
+  }
+  .middle .tp .imageCont .pick p{
+    font-size: 30px;
+  }
+  .middle .tp .imageCont .pick p span{
+    font-size: 15px;
+  }
+  .middle .tp p {
+    font-size: 16px;
+  }
+}

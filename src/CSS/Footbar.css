@@ -1,0 +1,33 @@
+footer {
+  height: 80px;
+  border-radius: 0px 2px 0px 0px;
+  background: #ffffffff;
+  box-shadow: 0px 10px 20px 0px #3f000000;
+}
+footer ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  top: 30px;
+}
+footer ul li {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  footer {
+    height: 50px;
+  }
+  footer ul {
+    margin-top: 25px;
+    top: 25px;
+  }
+  footer ul li {
+    font-size: 12px;
+    
+  }
+}
